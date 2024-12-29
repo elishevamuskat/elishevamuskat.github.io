@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WeddingSitter/static/css/main.e6c13ad2.css",
+    "main.js": "/WeddingSitter/static/js/main.b475642d.js",
+    "static/js/841.3a567f69.chunk.js": "/WeddingSitter/static/js/841.3a567f69.chunk.js",
+    "index.html": "/WeddingSitter/index.html",
+    "main.e6c13ad2.css.map": "/WeddingSitter/static/css/main.e6c13ad2.css.map",
+    "main.b475642d.js.map": "/WeddingSitter/static/js/main.b475642d.js.map",
+    "841.3a567f69.chunk.js.map": "/WeddingSitter/static/js/841.3a567f69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b475642d.js"
+  ]
+}
